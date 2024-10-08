@@ -1,0 +1,11 @@
+/* Define a CSS class for the queue position */
+.queue-info {
+    color: rgb(82, 82, 82);   /* Set the text color */
+    font-size: 16px;          /* Set a reasonable font size */
+    white-space: nowrap;      /* Prevent text from wrapping */
+    display: block;           /* Force block layout to avoid overlap */
+    margin-top: 5px;          /* Add some space above */
+    overflow: visible;        /* Ensure the text isn't cut off */
+    width: 100%;              /* Take up full width of the parent container */
+    line-height: 1.5;         /* Ensure proper spacing */
+}
