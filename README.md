@@ -1,0 +1,1 @@
+Boplats Queue Finder makes apartment hunting on Boplats more efficient by automatically displaying your queue position next to each apartment listing. Instead of clicking on each apartment to see your queue status, this extension saves you time by showing your position directly on the listing page, giving you quick and easy access to crucial information at a glance.
