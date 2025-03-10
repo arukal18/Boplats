@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Boplats Queue Position",
-    "version": "1.2",
+    "version": "1.3",
     "description": "Shows your queue position next to each apartment listing on Boplats.",
     "permissions": [],
     "background": {
